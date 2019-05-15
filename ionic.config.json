@@ -1,5 +1,7 @@
 {
   "name": "qr-checkin-trial",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
